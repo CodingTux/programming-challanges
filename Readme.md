@@ -1,1 +1,1 @@
-Repo consisting of all of my submitted and excepted solutions of competitive programming challenges.
+Repo consisting of all of my submitted and accepted solutions of competitive programming challenges.
